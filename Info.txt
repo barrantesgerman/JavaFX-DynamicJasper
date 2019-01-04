@@ -1,0 +1,5 @@
+https://github.com/mhrimaz/AwesomeJavaFX
+http://fxexperience.com/controlsfx/
+http://jfxtras.org/
+https://zeroturnaround.com/rebellabs/best-javafx-libraries-for-beautiful-apps-and-clean-code/
+http://dynamicjasper.com/documentation-examples/getting-started/
